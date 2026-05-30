@@ -876,20 +876,7 @@ export default function App() {
 
                 <div>
                   <label className="block text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1.5">
-                    4. Requested Improvements
-                  </label>
-                  <input 
-                    type="text"
-                    value={improvementNeeds}
-                    onChange={(e) => setImprovementNeeds(e.target.value)}
-                    placeholder="e.g. Reduce microphone dynamic distortions, repair ambient sunset lighting..."
-                    className="w-full text-xs py-2.5 px-3 rounded-lg bg-slate-950/60 border border-white/[0.08] focus:border-blue-500 focus:outline-none text-slate-250 transition placeholder:text-slate-650"
-                  />
-                </div>
-
-                <div>
-                  <label className="block text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-1.5">
-                    5. Campaign Goals & Target Demographics
+                    4. Campaign Goals & Target Demographics
                   </label>
                   <input 
                     type="text"

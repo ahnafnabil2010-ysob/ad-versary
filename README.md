@@ -426,4 +426,4 @@ Ad-Versary was developed by **YSoB Team Infinity**, a team under **Young Sparks 
 
 Our mission is simple:
 
-**Transform advertising from guesswork into intelligence.**
+**Transform advertising from guesswork into intelligence..**
